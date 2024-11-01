@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Albert Duy
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th September 1973
     - name: Languages
       value: English, German
 
